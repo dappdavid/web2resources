@@ -16,3 +16,20 @@
 - https://github.com/vasanthk/how-web-works
 - https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/03.1.html
 - https://roadmap.sh/guides/what-is-internet
+
+
+### Resourceful Youtube channels:
+- https://www.youtube.com/user/mycodeschool
+- https://www.youtube.com/c/TechDummiesNarendraL
+- https://www.youtube.com/user/tusharroy2525
+- https://www.youtube.com/c/sudoCODE
+- https://www.youtube.com/c/ByteByByte
+- https://www.youtube.com/c/GauravSensei
+- https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g
+- https://www.youtube.com/c/ThinkSoftware
+- https://www.youtube.com/c/TraversyMedia
+- https://www.youtube.com/c/codeKarle
+- https://www.youtube.com/c/KeepOnCoding
+- https://www.youtube.com/c/SystemDesignInterview
+- https://www.youtube.com/c/JeffHSipe
+- https://www.youtube.com/c/EngineeringwithUtsav
