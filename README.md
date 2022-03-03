@@ -7,6 +7,12 @@
 - https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/03.1.html
 - https://roadmap.sh/guides/what-is-internet
 
+### Data Structures
+
+### Algorithms
+
+### Design Patterns
+
 ### System Design:
 - https://gist.github.com/vasanthk/485d1c25737e8e72759f
 - https://github.com/madd86/awesome-system-design
